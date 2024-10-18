@@ -35,4 +35,4 @@ operators,data types and SQL statements.</span>
 text properties ,background properties,2D transition and transform.</span>
 <h3>Java Script</h3>
 <span>Good knowledge of types, keywords, functions, operators, data types, strings, arrays,
-object and DOM concepts.</span>
+object and DOM concepts,event in js.</span>
