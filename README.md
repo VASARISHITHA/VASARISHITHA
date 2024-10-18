@@ -9,6 +9,8 @@
 - 🤝 I’m looking for help with **data Analyst**
 
 - 📫 How to reach me **vasarishitha2003@gmail.com**
+- 📄 Know about my experiences [https://drive.google.com/file/d/1KangExDK6poF5h3FtNTI7i4RyUelgrRV/view?usp=drivesdk](https://drive.google.com/file/d/1KangExDK6poF5h3FtNTI7i4RyUelgrRV/view?usp=drivesdk)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
