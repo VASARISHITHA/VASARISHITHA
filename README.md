@@ -27,7 +27,7 @@ exception handling. knowledge on lambda, sorted,map,filter,decorator .</span>
 <h1>SQL</h1>
 <span>knowledge of writing SQL queries with understanding of subquery,nested subquery, functions,
 operators,data types and SQL statements.</span>
-<h1>WEB TECHNOLOGY</h1>
+<h2>WEB TECHNOLOGY</h2>
 <h3>Html</h3>
 <span>Knowledge of tags, hyperlinks, multimedia, tables,lists and forms</span>
 <h3>CSS</h3>
