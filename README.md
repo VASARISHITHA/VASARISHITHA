@@ -12,9 +12,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/vasa rishitha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vasa rishitha" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/vasa-rishitha-547870258" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vasa rishitha" height="30" width="40" /></a>
 <a href="https://instagram.com/vasa_rishitha03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vasa_rishitha03" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/vasa rishitha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="vasa rishitha" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/profile/vasarishitha2003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="vasa rishitha" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -30,3 +30,9 @@ operators,data types and SQL statements.</span>
 <h1>WEB TECHNOLOGY</h1>
 <h3>Html</h3>
 <span>Knowledge of tags, hyperlinks, multimedia, tables,lists and forms</span>
+<h3>CSS</h3>
+<span>Understanding of selectors ,types of css,box model, flex box model, position properties,
+text properties ,background properties,2D transition and transform.</span>
+<h3>Java Script</h3>
+<span>Good knowledge of types, keywords, functions, operators, data types, strings, arrays,
+object and DOM concepts.</span>
