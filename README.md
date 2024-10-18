@@ -1,8 +1,12 @@
 ## Hi there 👋
-<h1  style="align:center,color:royalblue">Hi 👋, I'm VASA RISHITHA</h1>
+<h1 align="center">Hi 👋, I'm VASA RISHITHA</h1>
 <h3 align="center">Passionate python full stack developer</h3>
 
 - 🌱 I’m currently learning **django**
+
+- 👯 I’m looking to collaborate on **frontend development as well as middleware**
+
+- 🤝 I’m looking for help with **data Analyst**
 
 - 📫 How to reach me **vasarishitha2003@gmail.com**
 
