@@ -1,10 +1,12 @@
 ## Hi there 👋
-<h1 style="text-align: center; color: royalblue;">Hi 👋, I'm VASA RISHITHA</h1>
+<h1 align="center" style="color:#4CAF50">Hi 👋, I'm VASA RISHITHA</h1>
 <h3 align="center">Passionate python full stack developer</h3>
 
-- 🌱 I’m currently learning **django**
+-🧑‍🎓 I am 
 
-- 👯 I’m looking to collaborate on **frontend development as well as middleware**
+-🌱 I’m currently learning **django**
+
+- 👯 I’m looking  forward to collaborate on **frontend development as well as middleware**
 
 - 🤝 I’m looking for help with **data Analyst**
 
@@ -38,3 +40,7 @@ text properties ,background properties,2D transition and transform.</span>
 <h3>Java Script</h3>
 <span>Good knowledge of types, keywords, functions, operators, data types, strings, arrays,
 object and DOM concepts,event in js.</span>
+
+<br>
+<h2 padding-bottom="20px"><img align="left"  width="500px" src="https://github-readme-stats.vercel.app/api/top-langs?username=vasarishitha&show_icons=true&locale=en&layout=compact" alt="vasarishitha" /></h2>
+
