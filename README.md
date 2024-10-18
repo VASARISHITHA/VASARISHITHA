@@ -1,10 +1,11 @@
 ## Hi there 👋
 <h1 align="center" style="color:#4CAF50">Hi 👋, I'm VASA RISHITHA</h1>
 <h3 align="center">Passionate python full stack developer</h3>
+<h3>About Me</h3>
 
--🧑‍🎓 I am 
+- 🧑‍🎓 I am computer science graduate from JB institute of Engineering and Technology
 
--🌱 I’m currently learning **django**
+- 🌱 I’m currently learning **django**
 
 - 👯 I’m looking  forward to collaborate on **frontend development as well as middleware**
 
