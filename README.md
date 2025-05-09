@@ -5,7 +5,7 @@
 
 - 🧑‍🎓 I am computer science graduate from JB institute of Engineering and Technology
 
-- 🌱 I’m currently learning **python full stack** **aws**
+- 🌱 I’m currently learning **django**, **aws**
 
 - 👯 I’m looking  forward to collaborate on **frontend development as well as middleware**
 
