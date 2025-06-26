@@ -1,4 +1,3 @@
-## Hi there 👋
 <h1 align="center" style="color:#4CAF50">Hi 👋, I'm VASA RISHITHA</h1>
 <h3 align="center">Passionate python full stack developer</h3>
 <h3>About Me</h3>
