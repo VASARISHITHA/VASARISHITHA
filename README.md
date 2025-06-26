@@ -5,11 +5,11 @@
 
 - 🧑‍🎓 I am computer science graduate from JB institute of Engineering and Technology
 
-- 🌱 I’m currently learning **django**, **aws**
+- 🌱 I’m currently learning **automate aws services using boto3**, **aws**,**Terraform**
 
-- 👯 I’m looking  forward to collaborate on **frontend development as well as middleware**
+- 👯 I’m looking  forward to collaborate on **frontend development as well as middleware and aws**
 
-- 🤝 I’m looking for help with **data Analyst**
+- 🤝 I’m looking for help with **cloud Engineers**
 
 - 📫 How to reach me **vasarishitha2003@gmail.com**
 - 📄 Know about my experiences [https://drive.google.com/file/d/1KangExDK6poF5h3FtNTI7i4RyUelgrRV/view?usp=drivesdk](https://drive.google.com/file/d/1KangExDK6poF5h3FtNTI7i4RyUelgrRV/view?usp=drivesdk)
@@ -41,7 +41,8 @@ text properties ,background properties,2D transition and transform.</span>
 <h3>Java Script</h3>
 <span>Good knowledge of types, keywords, functions, operators, data types, strings, arrays,
 object and DOM concepts,event in js.</span>
-
+<h3>AWS</h3>
+<span>knowledge on basics of cloud computing,Ec2,simple storage service,lambda,Rds,DynamoDB,virtual private network and its components,cloud watch</span>
 <br>
 <h2 padding-bottom="20px"><img align="left"  width="500px" src="https://github-readme-stats.vercel.app/api/top-langs?username=vasarishitha&show_icons=true&locale=en&layout=compact" alt="vasarishitha" /></h2>
 
