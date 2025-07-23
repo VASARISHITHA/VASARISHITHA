@@ -2,7 +2,7 @@
 <h3 align="center">Passionate python full stack developer & AWS cloud </h3>
 <h3>About Me</h3>
 
-- 🧑‍🎓 I am computer science graduate from JB institute of Engineering and Technology specialization in computer science and Engineering
+- 🧑‍🎓 I am computer science graduate from JB institute of Engineering and Technology
 
 - 🌱 I’m currently learning **automate aws services using boto3**, **AWS**,**Terraform**
 
