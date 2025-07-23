@@ -1,12 +1,12 @@
 <h1 align="center" style="color:#4CAF50">Hi 👋, I'm VASA RISHITHA</h1>
-<h3 align="center">Passionate python full stack developer</h3>
+<h3 align="center">Passionate python full stack developer|AWS cloud </h3>
 <h3>About Me</h3>
 
-- 🧑‍🎓 I am computer science graduate from JB institute of Engineering and Technology
+- 🧑‍🎓 I am computer science graduate from JB institute of Engineering and Technology specialization in computer science and Engineering
 
 - 🌱 I’m currently learning **automate aws services using boto3**, **aws**,**Terraform**
 
-- 👯 I’m looking  forward to collaborate on **frontend development as well as middleware and aws**
+- 👯 I’m looking  forward to collaborate on **frontend development ,python developer and aws**
 
 - 🤝 I’m looking for help with **cloud Engineers**
 
